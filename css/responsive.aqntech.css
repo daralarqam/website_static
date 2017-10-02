@@ -1,0 +1,528 @@
+@media (min-width: 1200px) {
+.article img {
+    width: 100%;
+}
+}
+@media (min-width: 1600px) and (max-width: 2000px) {
+#landingbox {
+    margin-top: 240px;
+}
+.core-slide2-heading {
+    font-size: 72px;
+    line-height: 60px;
+    margin-top: 100px;
+}
+.core-slide2-heading span {
+    font-size: 164px;
+    margin-bottom: 28px;
+}
+.core-slide2-txt {
+    font-size: 32px;
+    margin-top: 200px;
+    width: 100%;
+}
+.core-slide2-txt img {
+    margin: 0 50px 150px;
+}
+.core-slide3-heading {
+    font-size: 120px;
+    line-height: 65px;
+    margin-top: 115px;
+    width: 650px;
+}
+.core-slide3-txt {
+    font-size: 29px;
+    margin-top: 200px;
+    width: 100%;
+}
+.core-slide4-heading {
+    font-size: 67px;
+    line-height: 60px;
+    margin-top: 130px;
+    width: 560px;
+}
+.core-slide4-txt {
+    font-size: 27px;
+    margin-top: 80px;
+    width: 100%;
+}
+}
+@media (max-width: 950px) {
+header#hmd {
+    display: none;
+}
+.top-area .mobile-nav {
+    display: block;
+}
+.register-section {
+    clear: both;
+}
+}
+@media (min-width: 980px) and (max-width: 1199px) {
+.container {
+    width: 980px !important;
+}
+#drop-area {
+    min-width: 762px;
+}
+.block1 {
+    padding: 0 10px;
+    width: 190px;
+}
+.core-slide2-txt, .core-slide3-txt, .core-slide4-txt {
+    width: 95%;
+}
+.article img {
+    max-height: 150px !important;
+    width: 100%;
+}
+#problu img {
+    margin-top: 60px;
+    width: 40%;
+}
+.social-widget li {
+    width: 66px !important;
+}
+.std_right ul li span {
+    width: 260px !important;
+}
+.weekDay {
+    float: left;
+    text-align: center;
+    width: 60px;
+}
+.weekDay span {
+    color: #fff;
+    display: block;
+    height: 54px;
+    padding: 6px 0;
+}
+.weekcal .carouselbtn a {
+    height: 30px;
+    padding: 0;
+    width: 24px;
+}
+span.attend .prettycheckbox {
+    margin-left: 15px;
+}
+}
+@media (min-width: 980px) and (max-width: 1079px) {
+#drop-area {
+    left: -132px;
+}
+}
+@media (min-width: 768px) and (max-width: 979px) {
+.core-slide2-txt, .core-slide3-txt, .core-slide4-txt {
+    width: 95%;
+}
+.slide-text {
+    color: #000 !important;
+    left: auto !important;
+    position: relative !important;
+    text-align: left !important;
+    top: auto !important;
+}
+.slide-text h2 {
+    margin-left: 15px;
+}
+.slide-text p {
+    margin: 0 0 40px 25px;
+}
+#landingbox h3 {
+    font-size: 40px;
+}
+#landingbox h1 {
+    font-size: 200px;
+}
+#landingbox a {
+    margin: 15px;
+}
+.core-slide2-txt, .core-slide3-txt, .core-slide4-txt {
+    font-size: 22px;
+}
+.core-slide4-txt {
+    background-position: 100% 20px;
+}
+.banner img {
+    width: 100%;
+}
+header .arrow {
+    height: 104px !important;
+}
+.article img {
+    max-height: 105px !important;
+    width: 100%;
+}
+.donate .col-sm-9 {
+    width: 100%;
+}
+.amounts {
+    margin-left: 0 !important;
+}
+footer .col-sm-3 img {
+    width: 100%;
+}
+#problu img {
+    margin-top: 60px;
+    width: 40%;
+}
+nav ul li a {
+    padding: 15px 8px !important;
+}
+.social-widget li {
+    margin-bottom: 15px;
+    width: 66px !important;
+}
+.facts-widget a {
+    font-size: 22px !important;
+}
+.sub_header .banner {
+    background-size: 90% auto !important;
+}
+.h_color_5 {
+    background-size: 90% auto !important;
+}
+#circle {
+    margin-left: 0;
+}
+.dash-status {
+    margin: 0;
+    width: 200px;
+}
+.std_right ul li label {
+    font-size: 16px;
+    width: 130px !important;
+}
+.std_right ul li span {
+    font-size: 14px;
+    width: 200px !important;
+}
+.regbtn, .std_right ul li a.openbtn {
+    font-size: 14px;
+}
+#modules-1 .avaModule {
+    margin-top: 40px;
+}
+.widget {
+    width: 100%;
+}
+#problu .col-sm-4 div p {
+    margin-bottom: 25px;
+}
+.weekDay {
+    float: left;
+    text-align: center;
+    width: 45px;
+}
+.weekDay span {
+    color: #fff;
+    display: block;
+    height: 54px;
+    padding: 6px 0;
+}
+.weekcal .carouselbtn a {
+    height: 30px;
+    padding: 0;
+    width: 24px;
+}
+span.attend .prettycheckbox {
+    margin-left: 5px;
+}
+}
+@media (max-width: 767px) {
+
+.slide-text {
+    color: #000 !important;
+    left: auto !important;
+    position: relative !important;
+    text-align: left !important;
+    top: auto !important;
+}
+.slide-text h2 {
+    margin-left: 15px;
+}
+.slide-text p {
+    margin: 0 0 40px 25px;
+}
+.core-slide2-txt, .core-slide3-txt, .core-slide4-txt {
+    width: 95%;
+}
+#landingbox h3 {
+    font-size: 40px;
+}
+#landingbox h1 {
+    font-size: 200px;
+}
+#landingbox a {
+    margin: 15px;
+}
+.core-slide2-txt, .core-slide3-txt, .core-slide4-txt {
+    font-size: 22px;
+}
+.core-slide4-txt {
+    background-position: 100% 20px;
+}
+#landingbox {
+    margin-top: 20px;
+}
+.w-ui.vertical #panels {
+    height: 1000px !important;
+}
+#core-slide2 {
+    float: left;
+}
+.w-ui.vertical #panels img {
+    float: left !important;
+    margin: 0 80px 50px !important;
+}
+.core-slide4-txt {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+}
+.banner img {
+    width: 100%;
+}
+header#hmd {
+    height: 402px;
+}
+header .arrow {
+    height: 104px !important;
+}
+.article {
+    padding: 20px 0 15px;
+}
+.article img {
+    width: 100%;
+}
+.donate .col-sm-9 {
+    width: 100%;
+}
+.amounts {
+    margin-left: 0 !important;
+}
+footer .col-sm-3 {
+    display: none;
+}
+.guides {
+    margin-top: -50px;
+}
+.guides li {
+    margin: 15px;
+}
+.guides li:first-child {
+    margin-left: 15px !important;
+}
+footer ul.smedia {
+    float: left !important;
+    margin-top: 25px !important;
+}
+#logorow .col-sm-6 {
+    text-align: center;
+}
+.donate .vision {
+    margin-left: 30% !important;
+}
+#donatebox .amounts, #donatebox p {
+    width: 100% !important;
+}
+#greentap li {
+    font-size: 24px !important;
+    line-height: 28px !important;
+}
+#greentap li strong {
+    font-size: 26px !important;
+}
+#problu {
+    text-align: center;
+}
+#problu .col-sm-4 div {
+    float: none !important;
+    margin: auto !important;
+    text-align: center !important;
+}
+#problu img {
+    float: none !important;
+}
+#problu span {
+    float: none !important;
+    margin: 35px 0 0 !important;
+    width: 100%;
+}
+.sub_header .banner {
+    background-size: 90% auto !important;
+}
+#pages p {
+    font-size: 19px;
+    word-break: break-all;
+}
+.navbar-inverse ul li {
+    border-bottom: 1px solid #343d4c;
+    float: left;
+    text-align: left;
+    width: 100%;
+}
+nav.footer {
+    display: none;
+}
+.sub_header .banner h2 {
+    font-size: 44px !important;
+}
+.sub_header .banner p {
+    font-size: 24px !important;
+    line-height: 30px !important;
+    padding: 0 25px !important;
+}
+#modules-1 .avaModule {
+    width: 100% !important;
+}
+.social-widget li {
+    margin-bottom: 15px;
+}
+.stdprocess .sidebar {
+    display: inline-block;
+}
+#circle, .dash-status {
+    margin-left: 0;
+}
+.stdinfo {
+    margin: 100px 0 30px;
+}
+.std_right ul li label {
+    width: 100%;
+}
+.std_right ul li span {
+    margin-top: 5px;
+    text-align: left;
+}
+.std_right ul li span i {
+    float: left;
+}
+.std_right ul li span {
+    width: auto;
+}
+.avaModule h3 {
+    margin-top: 15px !important;
+}
+.widget {
+    padding: 9px;
+    width: 100%;
+}
+.core-slide3-heading {
+    font-size: 40px;
+    width: 100%;
+}
+.weekDay {
+    float: left;
+    text-align: center;
+    width: 43px;
+}
+.weekDay span {
+    color: #fff;
+    display: block;
+    font-size: 12px;
+    height: 54px;
+    padding: 6px 0;
+}
+.weekcal .carouselbtn a {
+    height: 30px;
+    padding: 0;
+    top: 5px;
+    width: 24px;
+}
+span.attend .prettycheckbox {
+    margin-left: 2px;
+}
+}
+@media (max-width: 420px) {
+	.mobile-nav-btn { float:right !important;}
+	#landingbox a { font-size: 30px;line-height: 45px;}
+
+.core-slide2-txt, .core-slide3-txt, .core-slide4-txt {
+    width: 95%;
+}
+#landingbox h3 {
+    font-size: 40px;
+}
+#landingbox h1 {
+    font-size: 200px;
+}
+#landingbox a {
+    margin: 15px;
+}
+.core-slide2-txt, .core-slide3-txt, .core-slide4-txt {
+    font-size: 22px;
+}
+.core-slide4-txt {
+    background-position: 100% 20px;
+}
+#landingbox {
+    margin-top: 20px;
+}
+.w-ui.vertical #panels {
+    height: 1100px !important;
+}
+#core-slide2 {
+    float: left;
+}
+.w-ui.vertical #panels img {
+    float: left !important;
+    margin: 0 0 50px !important;
+}
+.core-slide4-txt {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+}
+#landingbox h3 {
+    font-size: 30px;
+}
+#landingbox h1 {
+    font-size: 130px;
+}
+#landingbox a {
+    margin: 5px 0;
+}
+#landingbox p {
+    margin-top: 20px;
+}
+.donate .vision {
+    margin-left: 20% !important;
+}
+#problu img {
+    width: 100%;
+}
+#greentap li {
+    border-left: medium none !important;
+    border-top: 1px solid #fff;
+    width: 100% !important;
+}
+.tab-content {
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+#open {
+    overflow: scroll;
+    width: 480px;
+}
+.weekDay {
+    float: left;
+    text-align: center;
+    width: 57px;
+}
+.weekDay span {
+    background: none repeat scroll 0 0 #1a1a1a;
+    color: #fff;
+    display: block;
+    height: 54px;
+    padding: 6px 0;
+}
+span.attend {
+    background: none repeat scroll 0 0 #fff;
+}
+.weekcal .carouselbtn a {
+    height: 30px;
+    padding: 0;
+    top: 115px;
+    width: 24px;
+}
+span.attend .prettycheckbox {
+    margin-left: 15px;
+}
+}
