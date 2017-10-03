@@ -779,3 +779,21 @@ body.splashpage .logo,
 .home_controller #logorow a{color:#333;}
 
 .home_controller .slider.hero{max-height:1000px;}
+
+#landingbox > div > a.btn.signup-show-modal {
+display: none;
+}
+
+body > section:nth-child(3) > div > section.guides > div > div > ul > li:nth-child(1) {
+display: none;
+}
+
+
+#submenu-for-15 > ul > li:nth-child(7){
+display: none;
+}
+
+#logorow > div.col-md-9.col-sm-8.text-right.mobil > ul.nav.navbar-nav.hovercolor.navbar-right.extra
+{
+display: none;
+}
